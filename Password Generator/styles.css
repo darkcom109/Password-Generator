@@ -1,0 +1,15 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(74, 159, 35);
+}
+#myHeader{
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+#container{
+    text-align: center;
+}
+#container button{
+    font-family: 'Courier New', Courier, monospace;
+}
